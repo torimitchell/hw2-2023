@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 0px 10px;
 }
 
 img {
@@ -84,7 +84,7 @@ div.yellow p {
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
     /* border-width: 2px 5px 0px 0px; */
